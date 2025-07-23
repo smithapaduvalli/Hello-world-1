@@ -1,5 +1,6 @@
 hello 
 smitha
-how
-are 
-you
+are
+you 
+doing 
+ok
